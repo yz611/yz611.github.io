@@ -8,7 +8,7 @@ order: 4
 
 Hello, this is Yichi. Welcome to my blog! 
 
-Currently, I am a junior software engineer working at [BAR Technologies](https://www.bartechnologies.uk/) in [Portsmouth, England](https://en.wikipedia.org/wiki/Portsmouth). At work, I mainly programme in Python and C++. I have a degree in maths from [St John's College, Cambridge Uni](https://www.joh.cam.ac.uk/mathematics), but most of my daily work are software-related. 
+I’m an experienced software engineer with a strong background in software design, development, and optimization. I’ve contributed to various projects, building applications, writing unit tests, and resolving complex issues. I’m known for my collaborative, pragmatic approach and my enthusiasm for adopting new technologies to drive improvement.
 
 ### This blog
 
